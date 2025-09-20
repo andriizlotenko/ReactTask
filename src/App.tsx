@@ -3,12 +3,12 @@ import "./App.css";
 
 function App() {
   const users = [
-    { name: "Alice Johnson", role: "Frontend Developer", avatarUrl: "https://i.pravatar.cc/150?img=1" },
-    { name: "Bob Smith", role: "Backend Developer", avatarUrl: "https://i.pravatar.cc/150?img=2" },
+    { name: "Alice Mclaren", role: "Frontend Developer", avatarUrl: "https://i.pravatar.cc/150?img=20" },
+    { name: "Bob Marley", role: "Backend Developer", avatarUrl: "https://i.pravatar.cc/150?img=12" },
     { name: "Charlie Brown", role: "UI/UX Designer", avatarUrl: "https://i.pravatar.cc/150?img=3" },
-    { name: "Diana Prince", role: "Project Manager", avatarUrl: "https://i.pravatar.cc/150?img=4" },
-    { name: "Ethan Hunt", role: "QA Engineer", avatarUrl: "https://i.pravatar.cc/150?img=5" },
-    { name: "Fiona Shrek", role: "DevOps Engineer", avatarUrl: "https://i.pravatar.cc/150?img=6" },
+    { name: "Diana Prince", role: "Project Manager", avatarUrl: "https://i.pravatar.cc/150?img=41" },
+    { name: "Geralt Withcer", role: "QA Engineer", avatarUrl: "https://i.pravatar.cc/150?img=14" },
+    { name: "Fiona Shrek", role: "DevOps Engineer", avatarUrl: "https://i.pravatar.cc/150?img=16" },
   ];
 
   return (
